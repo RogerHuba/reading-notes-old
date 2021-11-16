@@ -10,6 +10,8 @@ I am Roger. I like to code in Python.  Love da Python!
 * Do this
 * Do that.
 
-###### h6
-
+### Table of Contents
+- [Class 1 Reading](class1.md)
+- [Class 2 Reading](class2.md)
+- [Class 3 Reading](class3.md)
 
